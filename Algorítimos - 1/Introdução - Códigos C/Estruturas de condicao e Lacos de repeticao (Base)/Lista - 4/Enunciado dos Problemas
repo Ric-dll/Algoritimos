@@ -1,0 +1,83 @@
+Questão 1
+Escreva um programa que verifique a validade de
+uma senha fornecida pelo usuário. A senha válida
+é o número 1234. Devem ser impressas as
+seguintes mensagens: ACESSO PERMITIDO caso a
+senha seja válida. ACESSO NEGADO caso a senha
+seja inválida.
+
+
+Questão 2
+Escreva um programa para ler 3 valores inteiros
+(não considere que não serão lidos valores iguais)
+e escrevê-los em ordem crescente.
+
+
+Questão 3
+Escreva um programa para ler o número de lados
+de um polígono regular e a medida do lado (em
+cm). Calcular e imprimir o seguinte:
+− Se o número de lados for igual a 3 escrever
+TRIÂNGULO e o valor da área
+− Se o número de lados for igual a 4 escrever
+QUADRADO e o valor da sua área.
+− Se o número de lados for igual a 5 escrever
+PENTÁGONO.
+
+
+Questão 4
+Faça um programa que faça 5 perguntas para uma
+pessoa sobre um crime. As perguntas são:
+
+• Telefonou para a vítima?
+• Esteve no local do crime?
+• Mora perto da vítima?
+• Devia para a vítima?
+• Já trabalhou com a vítima?
+O programa deve no final emitir uma classificação
+sobre a participação da pessoa no crime. Se a
+pessoa responder positivamente a 2 questões ela
+deve ser classificada como “Suspeita”, entre 3 e 4
+como “Cúmplice” e 5 como “Assassino “. Caso
+contrário, ele será classificado como “Inocente “.
+
+
+Questão 5
+As organizações CSM resolveram dar um aumento
+de salário aos seus colaboradores e lhe
+contrataram para desenvolver o programa que
+calcula os reajustes.
+a. Faça um programa que recebe o salário de um
+colaborador e o reajuste segundo o seguinte
+critério, baseado no salário atual;
+b. Salários até R$ 280,00 (incluindo): aumento de
+20%;
+c. Salários entre R$ 280,00 e R$700,00: aumento
+de 15%;
+d. Salários entre R$ 700,00 e R$ 1500,00: aumento
+de 10%;
+e. Salários de R$ 1500,00 em diante: aumento de
+5%
+
+
+Questão 6
+Escrever um programa em C que lê um valor
+i,inteiro e positivo e 3 valores a, b e c. Se o valor
+de i é par então calcular e imprimir na tela a média
+aritmética de a, b e c. Caso contrário, se i>10
+então calcular e imprimir na tela a média
+ponderada de a, b e c. Os pesos dos valores são
+respectivamente 2, 3 e 4.
+
+
+Questão 7
+Faça um programa que dada a idade de uma
+pessoa, retorna uma das seguintes mensagens:
+“Não pode nem votar e nem dirigir”, “Pode votar,
+mas não pode dirigir”, “Pode votar e pode dirigir”.
+
+
+Questão 8
+Faça um programa que receba um número inteiro
+e informe se ele é divisível por 10, por 5, por 2 ou
+se não é divisível por nenhum deles.

@@ -1,0 +1,82 @@
+Questão 1
+Faça um programa que leia um número real e o
+imprima.
+
+
+Questão 2
+Faça um programa que leia uma velocidade em km/h
+(quilômetros por hora) e apresente-a convertida em
+m/s (metros por segundo). A formula de conversão é:
+M = K/3.6, sendo K a velocidade em km/h e M em m/s.
+
+
+Questão 3
+Leia uma distância em milhas e apresente-a convertida
+em quilômetros. A fórmula de conversão é: K = 1, 61 ∗
+M, sendo K a distância em quilômetros e M em milhas.
+
+
+Questão 4
+Faça um programa que leia o tamanho do lado de
+um quadrado e imprima como resultado a sua
+área.
+
+
+Questão 5
+Faça um programa que leia o valor de um produto e
+imprima o valor com desconto, tendo em vista que o
+desconto foi de 16%.
+
+
+Questão 6
+A importância de R$ 780.000,00 será dividida
+entre três ganhadores de um concurso. Sendo que
+da quantia total:
+• O primeiro ganhador receberá 46%;
+• O segundo receberá 32%;
+• O terceiro recebera o restante;  ́
+Faça um algoritmo que calcule e imprima a
+quantia ganha por cada um dos ganhadores.
+
+
+Questão 7
+Uma empresa contrata um encanador a R$ 130,00
+por dia. Faça um programa que solicite o número
+de dias trabalhados pelo encanador e imprima a
+quantia líquida que deverá ser paga, sabendo-se
+que são descontados 8% para imposto de renda
+
+
+Questão 8
+Faça um programa que leia o valor da hora de
+trabalho (em reais) e número de horas
+trabalhadas no mês. Imprima o valor a ser pago ao
+funcionário, adicionando 10% sobre o valor
+calculado.
+
+
+Questão 9
+Escreva um programa de ajuda para vendedores.
+A partir de um valor total lido, mostre:
+• o total a pagar com desconto de 10%;
+• o valor de cada parcela, no parcelamento de 3×
+sem juros;
+• a comissão do vendedor, no caso da venda ser a
+vista (5% sobre o valor com desconto)
+• a comissão do vendedor, no caso da venda ser
+parcelada (5% sobre o valor total)
+
+
+Questão 10
+Faça um programa para converter uma letra
+maiúscula em letra minúscula. Use a tabela ASCII
+para resolver o problema.
+
+
+Questão 11
+Faça um programa que leia um número inteiro
+positivo de três dígitos (de 100 a 999).
+Gere outro número formado pelos dígitos
+invertidos do número lido. Exemplo:
+Número Lido: 587
+Número Gerado: 785

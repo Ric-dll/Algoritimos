@@ -1,0 +1,26 @@
+Questão 1
+Faça um programa que leia uma string e a imprima
+na tela.
+
+Questão 2
+Faça um programa que leia uma string e imprima
+somente as letras das posições de índices ímpares.
+
+Questão 5
+Crie um programa para comparar duas strings.
+Utilize a função strcmp().
+
+Questão 7
+Faça um programa que conte o número de 1’s que
+aparecem em uma string. Exemplo:
+0011001 -> 3
+
+Questão 8
+Faça um programa que receba do usuário uma
+string. O programa deve imprimir a string sem
+suas vogais.
+
+Questão 9
+Faça um programa que leia uma string e a inverta.
+A string invertida deve ser armazenada na mesma
+variável. Em seguida, imprima a string invertida.

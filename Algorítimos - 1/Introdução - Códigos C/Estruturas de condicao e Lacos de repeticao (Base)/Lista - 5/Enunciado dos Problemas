@@ -1,0 +1,109 @@
+Questão 1
+Ana e suas amigas estão fazendo um trabalho de
+geometria para o colégio, em que precisam formar
+vários triângulos, numa cartolina, com algumas
+varetas de comprimentos diferentes. Logo elas
+perceberam que não dá para formar triângulos
+com três varetas de comprimentos quaisquer. Se
+uma das varetas for muito grande em relação às
+outras duas, não dá para formar o triângulo. Ana
+fez uma pesquisa na internet e aprendeu que com
+três varetas é possível formar um triângulo
+quando, para todas as varetas, vale a seguinte
+relação: o comprimento da vareta é menor do que
+a soma dos comprimentos das outras duas
+varetas. Por exemplo, se os comprimentos forem
+6, 9 e 5, vai dar para formar o triângulo, pois a
+relação vale para as três varetas: 6<9+5, 9<6+5 e
+5<6+9. Mas, se os comprimentos forem, por
+exemplo, 4, 10 e 3, não vai dar para formar um
+triângulo, porque a relação não vale para uma das
+varetas (pois 10 não é menor do que 3+4).
+Escreva um programa que receba o comprimento
+de 4 varetas e responda, ao final, se é ou não
+possível selecionar três varetas, dentre as quatro,
+e formar um triângulo!
+Seu programa deve produzir apenas uma linha
+contendo o caractere "S", caso seja possível
+formar o triângulo; ou o caractere "N", caso não
+seja possível formar o triângulo.
+
+
+Questão 2
+Escreva um programa para ler 3 valores inteiros
+(não considere que não serão lidos valores iguais)
+e escrevê-los em ordem crescente.
+
+
+Questão 3
+Se pegarmos uma nota de 100 reais e a cortarmos,
+usando uma tesoura, em dois pedaços, quanto
+vale cada um dos pedaços? A regra é simples: se
+um dos pedaços possuir estritamente mais da
+metade da área da nota original, então ele vale
+100 reais; e o outro pedaço não vale nada. Veja
+que se cada pedaço possuir exatamente metade
+da área original, então nenhum dos dois tem
+valor.
+Felix e Marzia decidiram fazer um corte, em linha
+reta, que comece no lado inferior da nota, a base,
+e termine no lado superior, o topo. A nota é um
+retângulo de comprimento 160 centímetros e
+altura 70 centímetros, como mostrado na parte
+esquerda da figura abaixo. Felix sempre vai ficar
+com o pedaço mais à esquerda da nota e Marzia
+com o pedaço mais à direita. A parte direita da
+figura ilustra dois possíveis cortes. No de cima,
+Marzia ficaria claramente com o maior pedaço,
+que vale 100 reais; e no de baixo, dá para ver que
+Felix é quem ficaria com o maior pedaço.
+O corte reto vai começar na base a uma distância
+de B centímetros a partir do lado esquerdo da
+nota; e terminar no topo a uma distância de T
+centímetros também a partir do lado esquerdo da
+nota. Veja a indicação na parte direita da figura.
+Neste problema, dados os valores B e T, seu
+programa deve computar quem vai ficar com o
+pedaço que vale 100 reais, ou se o valor da nota se
+perdeu.
+
+Escreva um programa que receba dois valores:
+• um inteiro B representando a distância do
+ponto inicial do corte, na base, para o lado
+esquerdo da nota.
+• um inteiro T representando a distância do
+ponto final do corte, no topo, para o lado
+esquerdo da nota.
+Seu programa deve imprimir um número inteiro:
+• 1, se Felix ficou com o pedaço que vale 100
+reais;
+• 2, se Marzia ficou com o pedaço que vale
+100 reais; ou
+• 0, se o valor da nota se perdeu.
+
+
+Questão 4
+A prefeitura contratou um novo professor para
+ensinar as crianças do bairro a jogar tênis na
+quadra de tênis do parque municipal. O professor
+convidou todas as crianças do bairro interessadas
+em aprender a jogar tênis. Ao final do primeiro
+mês de aulas e treinamentos foi organizado um
+torneio em que cada participante disputou
+exatamente seis jogos. O professor vai usar o
+desempenho no torneio para separar as crianças
+em três grupos, de forma a ter grupos de treino
+em que os participantes tenham habilidades mais
+ou menos iguais, usando o seguinte critério:
+• participantes que venceram 5 ou 6 jogos
+serão colocados no Grupo 1;
+• participantes que venceram 3 ou 4 jogos
+serão colocados no Grupo 2;
+• participantes que venceram 1 ou 2 jogos
+serão colocados no Grupo 3;
+• participantes que não venceram nenhum
+jogo não serão convidados a continuar com
+os treinamentos.
+Dada uma lista com o resultado dos jogos de um
+participante, escreva um programa para
+determinar em qual grupo ele será colocado.

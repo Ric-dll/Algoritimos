@@ -1,0 +1,22 @@
+Questão 1
+Você deverá criar um sistema (programa) que
+implemente o algoritmo para validar CPF. O seu
+programa deverá possuir um menu com as
+seguintes opções:
+
+1- Gerar dígitos verificadores: Seu programa
+receberá 9 dígitos (separadamente) e irá
+gerar os dois dígitos verificadores para um
+CPF válido.
+2- Validar CPF: Seu programa receberá 11
+dígitos (separadamente) e irá informar se
+este é ou não um CPF válido.
+3- Gerar um CPF: Seu programa irá gerar,
+aleatoriamente, um número de CPF válido.
+4- Gerar N CPFs: Seu programa irá gerar,
+aleatoriamente, N números de CPF válidos.
+
+Deve-se utilizar o conceito de Vetores (Array).
+
+Apresentar ao professor a implementação
+desenvolvida até o final da aula.

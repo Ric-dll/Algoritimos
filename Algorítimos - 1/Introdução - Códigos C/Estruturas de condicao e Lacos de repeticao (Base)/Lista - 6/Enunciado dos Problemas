@@ -1,0 +1,137 @@
+Questão 1
+Fazer um programa para encontrar todos os
+números pares entre 1 e 100
+
+Questão 2
+Faça um programa que exiba a tabuada de 1 a 10
+
+Questão 3
+Faça um programa que receba dois valores
+inteiros e apresente a multiplicação desses
+valores. Atenção, você não poderá utilizar o
+operador de multiplicação (*) para isso.
+
+Questão 4
+Faça um programa que solicite ao usuário
+informar um valor positivo. O programa deverá
+repetir a solicitação caso o usuário forneça um
+valor inválido (negativo). Quando o usuário
+fornecer um valor válido, mostre “Entrado...”.
+
+Questão 5
+Faça um programa que permita ao usuário
+fornecer diversos valores positivos. O programa
+deverá parar de solicitar valores quando o usuário
+fornecer um valor negativo. Ao final, o programa
+deverá informar a soma dos valores lidos.
+
+Questão 6
+Faça um programa que permita ao usuário
+fornecer diversos valores reais. O programa deve,
+primeiramente, solicitar ao usuário a quantidade
+de valores a serem lidos. Ao final, o programa
+deve informar a média aritmética dos valores
+lidos.
+
+Questão 7
+Faça um programa que solicite diversos valores ao
+usuário. Ao final, o programa deve informar o
+menor valor lido.
+
+Questão 8
+Faça um programa que solicite diversos valores ao
+usuário. Ao final, o programa deve informar o
+maior valor lido.
+
+Questão 9
+Faça um programa que solicite diversos valores ao
+usuário. Ao final, o programa deve informar a
+soma dos valores, sua média aritmética, o menor
+e o maior valor.
+
+Questão 10
+Faça um programa que determine e mostre os 50
+primeiros múltiplos de 3, considerando números
+positivos.
+
+BCC 2 Algoritmos I
+Questão 11
+Faça um programa que leia um número N e depois
+imprima os N primeiros números naturais
+ímpares.
+
+Questão 12
+Faça um programa que calcule e mostre a soma
+dos 50 primeiros números pares. Obs.: Considere
+apenas números positivos.
+
+Questão 13
+Faça um programa que receba um número maior
+que 1, e verifique se o número fornecido é primo
+ou não. Obs.: um número é considerado primo
+quando seus únicos divisores são 1 e o próprio
+número.
+
+Questão 14
+Faça um programa que receba vários números,
+calcule e mostre:
+• A soma dos números digitados.
+• A quantidade de números digitados.
+• A média dos números digitados.
+• O maior número digitado.
+• O menor número digitado.
+• A média dos números pares.
+Finalize a entrada de dados caso o usuário informe
+o valor 0.
+
+Questão 15
+Faça um programa que leia um número positivo e
+mostre seus divisores.
+
+Questão 16
+Faça um programa utilizando o comando while
+que mostre a contagem regressiva na tela,
+iniciando em 10 e terminado em 0. Mostrar a
+mensagem FIM! após a contagem.
+
+Questão 17
+Peça ao usuário para digitar 10 valores, some
+estes valores e mostre o resultado
+
+Questão 18
+Faça um programa que some todos os números
+naturais abaixo de 1000 que são múltiplos de 3 e
+de 5.
+
+Questão 19
+Faça um programa que leia dois números A e B
+entre 0 e 1000. O programa deverá somar todos
+os valores menores que 1000 e que sejam
+múltiplos de A ou B, mas não de ambos.
+
+Questão 20
+Escreva um programa que leia um número inteiro
+e calcule a soma de todos os divisores desse
+número, com exceção dele próprio. Ex: a soma dos
+divisores do número 66 é: 1 + 2 + 3 + 6 + 11 + 22 +
+33 = 78.
+
+Questão 21
+Faça um programa que leia um número inteiro
+positivo N e imprima todos os números naturais
+de 0 até N em ordem crescente e decrescente
+
+Questão 22
+Faça um programa que leia um número inteiro
+positivo par N e imprima todos os números pares de
+
+BCC 3 Algoritmos I
+0 até N em ordem crescente e todos os números
+ímpares em ordem decrescente.
+
+Questão 23
+Faça um programa que calcule a área de um
+triângulo, cuja base e altura são fornecidas pelo
+usuário. Esse programa não pode permitir a
+entrada de dados inválidos, ou seja, medidas
+menores ou iguais a 0.

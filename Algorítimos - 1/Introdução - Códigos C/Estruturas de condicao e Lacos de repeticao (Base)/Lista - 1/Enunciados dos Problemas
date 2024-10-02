@@ -1,0 +1,110 @@
+Questão 1
+Escreva um programa em Linguagem C apresente
+na tela a seguinte informação:
+IFSULDEMINAS – PASSOS
+BCC - 2023
+[NOME DO ALUNO]
+[IDADE DO ALUNO]
+
+
+Questão 2
+Escreva um programa em Linguagem C que
+declare e inicialize (com qualquer valor que
+desejar) três variáveis do tipo inteiro, some esses
+valores e apresente o resultado na tela.
+
+
+Questão 3
+Escreva um programa em Linguagem C que receba
+três valores inteiros informados pelo usuário e
+apresente na tela a soma desses valores.
+
+
+Questão 4
+Escreva um algoritmo em linguagem C que receba
+um número inteiro e apresente o dobro deste
+número.
+
+
+Questão 5
+Escreva um programa em Linguagem C que receba
+dois valores reais e apresente na tela a média
+aritmética desses valores.
+
+
+Questão 6
+Escreva um programa em Linguagem C que receba
+dois valores inteiros A e B e apresente na tela o
+módulo de A por B.
+
+
+Questão 7
+Escreva um programa em Linguagem C que receba
+dois valores reais e apresente na tela a média
+aritmética desses valores.
+
+
+Questão 8
+Escreva um algoritmo em linguagem C que receba
+dois números inteiros (A e B) e calcule C com base
+na seguinte fórmula:
+
+
+C = (A * B) – (A * 2)
+Apresente ao final o valor de C.
+
+
+Questão 9
+Progressão geométrica é uma sequência numérica
+que possui uma razão fixa q e, a partir do primeiro
+termo, os termos são cálculos pela razão q vezes o
+seu antecessor. Os termos da sequência são
+representados por (a1, a2, a3, a4, a5 ...). Os 
+termos de uma PG podem ser encontrados a partir
+de uma fórmula que depende somente do termo
+inicial e da razão. A fórmula para encontrar os
+termos de uma PG:
+
+
+Escreva um algoritmo em linguagem C que receba
+o valor inicial (a1), a razão (q) e determine o valor
+aN para essa progressão. Além dos valores de a1 e
+q o usuário deverá informar também o valor de N.
+
+
+Questão 10
+A empresa XYZ concedeu um bônus de 20% do
+valor do salário a todos os funcionários com
+tempo de trabalho na empresa igual ou superior a
+5 anos e de 10% aos demais. Faça um programa
+em C que receba o salário e o tempo de serviço de
+um funcionário, calcule e mostre o valor do bônus
+recebido por ele.
+
+
+Questão 11
+Faça um algoritmo que leia dois valores para as
+variáveis A e B e efetue a troca dos valores de
+forma que a variável A passe a possuir o valor da
+variável B e a variável B passe a possuir o valor da
+variável A. Apresente os valores trocados.
+
+
+Questão 12
+Faça um algoritmo em linguagem C que leia uma
+temperatura em graus Celsius e apresente-a
+convertida em graus Fahrenheit. A fórmula de
+conversão é: F = (9 * C + 160) / 5, na qual F é a
+temperatura em Fahrenheit e C é a temperatura
+em Celsius.
+
+
+Questão 13
+Implemente um código em C para aprovar
+empréstimo bancário. O código deve pedir 3
+informações: valor do empréstimo, número de
+parcelas e salário do solicitante. O programa deve
+aprovar o empréstimo caso o valor das parcelas
+represente no máximo 30% do salário do
+solicitante. Exiba na tela se o empréstimo foi ou
+não foi aprovado.

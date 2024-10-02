@@ -1,0 +1,11 @@
+Questão 1
+Crie um programa que leia 6 valores inteiros e, em
+seguida, mostre na tela os valores lidos em ordem
+inversa.
+
+
+Questão 9
+Faça um vetor de tamanho 50 preenchido com o
+seguinte valor: (i + 5 ∗ i) % (i + 1), sendo i a posição
+do elemento no vetor. Em seguida imprima o
+vetor na tela.

@@ -1,0 +1,19 @@
+Questão 1
+Escreva um programa em Linguagem C que receba
+dois valores inteiros informados pelo usuário e
+apresenta na tela uma mensagem informando
+qual desses é o maior.
+
+
+Questão 2
+Escreva um programa em Linguagem C que receba
+o valor (V) de uma determinada compra e um
+percentual de desconto (D). Caso o valor da conta
+com o desconto calculado seja maior que R$
+100,00, exiba uma mensagem informando que é
+possível conceder o desconto e apresente o valor
+da compra com o desconto. Caso o valor da conta
+com o desconto calculado seja menos que R$
+100,00, exiba uma mensagem informando que
+não é possível conceder o desconto e apresente o
+valor da compra sem o desconto.

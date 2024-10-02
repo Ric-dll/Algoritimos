@@ -1,0 +1,42 @@
+Questão 1
+Leia uma matriz de tamanho 3 x 3. Em seguida,
+imprima a matriz completa e imprima a soma dos
+valores contidos em sua diagonal principal.
+
+Questão 2
+Calcular e imprimir na tela uma matriz de
+tamanho 10 x 10, em que seus elementos são da
+forma:
+A[i][j] = 2i + 7j − 2 se i < j
+A[i][j] = 3i
+
+2 − 1 se i = j
+
+A[i][j] = 4i
+3 + 5j
+2 + 1 se i > j
+
+Questão 3
+Faça um programa que permita ao usuário entrar
+com uma matriz de tamanho 3 x 3 de números
+inteiros. Em seguida, calcule um vetor contendo
+três posições, em que cada posição deverá
+armazenar a soma dos números de cada linha da
+matriz. Exiba na tela esse array. Por exemplo, a
+matriz:
+
+2 7 -2
+3 12 3
+4 5 5
+
+Deverá gerar o vetor:
+
+7 18 14
+
+Questão 4
+Leia uma matriz de tamanho 10 x 3 com as notas
+de 10 alunos em três provas. Em seguida, calcule e
+escreva na tela o número de alunos cuja melhor
+nota foi na prova 1, o número de alunos cuja
+melhor nota foi na prova 2 e o número de alunos
+cuja melhor nota foi na prova 3.
